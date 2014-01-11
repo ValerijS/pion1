@@ -1,0 +1,27 @@
+1	 git init
+2	 django-admin.py startproject test_django_project
+3	 ./django-admin.py startproject test_django_project
+4	 ls
+5	 python
+6	 git add
+7	 git add .
+8	 git add .
+9	 git add all
+10	 git add all
+11	 cd .
+12	 cd ..
+13	 cd ..
+14	 cd dwd
+15	 cd test_django_roject
+16	 git init
+17	 python manage.py runserver 194.28.7.14:5555
+18	 python manage.py runserver 194.28.7.14:5555
+19	 python manage.py runserver 194.28.7.14:5555
+20	 python manage.py runserver 194.28.7.14:5555
+21	 python manage.py runserver syncdb
+22	 python manage.py  syncdb
+23	 python manage.py  syncdb
+24	 python manage.py runserver 194.28.7.14:5555
+25	 python manage.py  syncdb
+26	 python manage.py runserver 194.28.7.14:5555
+27	 git comit -m 'Djangoappl'
